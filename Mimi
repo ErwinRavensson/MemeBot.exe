@@ -1,0 +1,6 @@
+echo "# MemeBot.exe" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ErwinRavensson/MemeBot.exe.git
+git push -u origin master
